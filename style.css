@@ -1,0 +1,45 @@
+.header{
+	height: 100px;
+	min-height: 10px;
+	background-color: orange;
+	font-size: 25px;
+	text-align: center;
+}
+.wrapper{
+	
+	}
+.container{
+	min-height: 150px;
+	background-color: blue;
+	width: 33%;
+	float: left;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+}
+.blog{
+	min-height: 150px;
+	background-color: red;
+	width: 33%;
+	float: left;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+}
+.contact{
+	min-height: 150px;
+	background-color: yellow;
+	width: 33%;
+	float: left;
+	text-align: center;
+	font-size: 30px;
+	color: black;
+}
+.footer{
+	min-height: 80px;
+	background-color: black;
+	color: white;
+	font-size: 35px;
+	text-align: center;
+	clear: both;
+}
